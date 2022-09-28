@@ -99,7 +99,9 @@ OUTPUT:
 ![output](ds46.png)
 ![output](ds47.png)
 ![output](ds48.png)
-![output](ds49.png)
+![output](ds49.png)\
+![output](ds410.png)
+![output](ds411.png)
 
 Result:
 Thus the program to perform EDA on the given data set is successfully executed.
